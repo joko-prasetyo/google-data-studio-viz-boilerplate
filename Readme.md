@@ -12,7 +12,7 @@ To start develop your viz, change LOCAL to `false` and then run this command
 npm run start
 ```
 
-To deploy your viz into google bucket run this command
+To deploy your viz into google bucket, change LOCAL to `true` and run this command
 
 ```
 npm run deploy
