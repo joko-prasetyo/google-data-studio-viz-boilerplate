@@ -3,7 +3,7 @@ import { Hello } from './Hello'
 import ReactDOM from 'react-dom'
 import { message } from "./localMessage"
 
-const LOCAL = false;
+const LOCAL = true;
 
 export function drawViz(data: ObjectFormat) {
 	// Insert or replace the visualization element

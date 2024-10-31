@@ -14,7 +14,8 @@
       "iconUrl": "https://img.icons8.com/material/24/000000/hello.png",
       "resource": {
         "js": "gs://custom-viz/name/viz.js",
-        "config": "gs://custom-viz/name/config.json"
+        "config": "gs://custom-viz/name/config.json",
+        "css": "gs://custom-viz/name/index.css"
       }
     }
   ]
