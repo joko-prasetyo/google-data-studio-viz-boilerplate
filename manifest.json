@@ -1,0 +1,21 @@
+{
+  "name": "Custom Viz",
+  "organization": "Organization",
+  "description": "Example visualizations using React and JSX",
+  "logoUrl": "https://img.icons8.com/dotty/80/000000/view-file.png",
+  "packageUrl": "https://yoursite",
+  "supportUrl": "https://yoursite",
+  "devMode": true,
+  "components": [
+    {
+      "id": "ai-tooltip",
+      "name": "Component Name",
+      "description": "Just says hello",
+      "iconUrl": "https://img.icons8.com/material/24/000000/hello.png",
+      "resource": {
+        "js": "gs://custom-viz/name/viz.js",
+        "config": "gs://custom-viz/name/config.json"
+      }
+    }
+  ]
+}
